@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: DHARSHAN PT
+## Reg: 212223230046
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,16 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](<Screenshot 2025-04-23 155920.png>)
+![alt text](<Screenshot 2025-04-23 155929.png>)
+![alt text](<Screenshot 2025-04-23 155937.png>)
+![alt text](<Screenshot 2025-04-23 155947.png>)
+![alt text](<Screenshot 2025-04-23 155956.png>)
+![alt text](<Screenshot 2025-04-23 160007.png>)
+![alt text](<Screenshot 2025-04-23 160019.png>)
+![alt text](<Screenshot 2025-04-23 160031.png>)
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
