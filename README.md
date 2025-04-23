@@ -26,14 +26,13 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![alt text](<Screenshot 2025-04-23 155920.png>)
-![alt text](<Screenshot 2025-04-23 155929.png>)
-![alt text](<Screenshot 2025-04-23 155937.png>)
-![alt text](<Screenshot 2025-04-23 155947.png>)
-![alt text](<Screenshot 2025-04-23 155956.png>)
-![alt text](<Screenshot 2025-04-23 160007.png>)
-![alt text](<Screenshot 2025-04-23 160019.png>)
-![alt text](<Screenshot 2025-04-23 160031.png>)
+![Screenshot 2025-04-23 161834](https://github.com/user-attachments/assets/753a2e3c-f0ac-4ff0-9781-878f00f16ef5)
+![Screenshot 2025-04-23 161905](https://github.com/user-attachments/assets/2f511566-270f-4593-9c10-8f2270b67a4a)
+![Screenshot 2025-04-23 162003](https://github.com/user-attachments/assets/e149ff0c-03e0-423a-aa2c-e32737bed411)
+![Screenshot 2025-04-23 162017](https://github.com/user-attachments/assets/7028d1ce-dfc1-42ac-b501-081b4aac13ae)
+![Screenshot 2025-04-23 162032](https://github.com/user-attachments/assets/e8466974-578e-4e67-a441-5348fcacde0e)
+![Screenshot 2025-04-23 162059](https://github.com/user-attachments/assets/e1ff97f9-e196-46f4-a5d8-96595a78568f)
+![Screenshot 2025-04-23 162108](https://github.com/user-attachments/assets/6b4299c9-bf45-432a-bb8b-25bcb60add04)
 
 
 
